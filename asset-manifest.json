@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/prueba-portafolio-bootstrap/static/css/main.e072b5b0.css",
+    "main.css": "/prueba-portafolio-bootstrap/static/css/main.58e2170a.css",
     "main.js": "/prueba-portafolio-bootstrap/static/js/main.ea549bdd.js",
     "static/media/RaicesTj.png": "/prueba-portafolio-bootstrap/static/media/RaicesTj.9ea7c5c4e76046a3f121.png",
     "static/media/Mockup03.jpg": "/prueba-portafolio-bootstrap/static/media/Mockup03.b6e8a79f9d686bd89738.jpg",
@@ -41,11 +41,11 @@
     "static/media/inmobiliaria-pagina.png": "/prueba-portafolio-bootstrap/static/media/inmobiliaria-pagina.3cc47c89de9c1a0ee1f2.png",
     "static/media/logo.svg": "/prueba-portafolio-bootstrap/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/prueba-portafolio-bootstrap/index.html",
-    "main.e072b5b0.css.map": "/prueba-portafolio-bootstrap/static/css/main.e072b5b0.css.map",
+    "main.58e2170a.css.map": "/prueba-portafolio-bootstrap/static/css/main.58e2170a.css.map",
     "main.ea549bdd.js.map": "/prueba-portafolio-bootstrap/static/js/main.ea549bdd.js.map"
   },
   "entrypoints": [
-    "static/css/main.e072b5b0.css",
+    "static/css/main.58e2170a.css",
     "static/js/main.ea549bdd.js"
   ]
 }
